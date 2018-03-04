@@ -6,7 +6,8 @@
     "require": {
         "composer/installers": "^1.0.24",
         "wikimedia/composer-merge-plugin": "^1.4",
-        "drupal/empty_front_page": "1.x-dev"
+        "drupal/empty_front_page": "1.x-dev",
+        "drupal/calendar": "1.x-dev"
     },
     "replace": {
         "drupal/core": "^8.4"

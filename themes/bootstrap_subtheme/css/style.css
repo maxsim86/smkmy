@@ -1,3 +1,29 @@
 /**
  * Place your custom styles here.
  */
+
+.view-responsive-grid {
+  margin-top: 1em;
+  img {
+    width: 100%;
+    border: 3px solid #eee;
+    padding: 3px;
+    border-radius: 5px;
+  }
+  img:hover {
+    border-color: #ddd;
+  }
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+  p {
+    display: inline;
+    position: relative;
+    bottom: 60px;
+    left: 6px;
+    background: rgba(17, 17, 17, .5);
+    color: #fff;
+    padding: 0.5em 0.7em;
+  }
+}
